@@ -119,6 +119,7 @@ footer {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    
 
 }
 
@@ -128,7 +129,7 @@ footer {
 
 .footer ul {
     padding-inline-start: 0px;
-    ;
+    
 }
 
 .footer .footer-header {
