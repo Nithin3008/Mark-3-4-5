@@ -119,7 +119,7 @@ footer {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
-
+    margin-top: 2.7rem;
    
     
 
@@ -137,4 +137,15 @@ footer {
 .footer .footer-header {
     font-size: large;
     font-weight: bold;
+}
+.heading1
+{
+    color:grey  ;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.heading1 span
+{
+    color: #ea580c  ;
 }
