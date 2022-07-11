@@ -115,11 +115,15 @@ hr {
 
 footer {
     background-color: var(--prim-col);
-    padding: 2rem;
+    /* padding: 2rem; */
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
-    margin-top: 2.7rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+   
    
     
 
