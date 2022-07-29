@@ -15,10 +15,10 @@ hr {
     --off-white: #F3F4F6;
 }
 
-.container {
-    padding:1rem 1rem;
+/* .container {
+    padding:5px 5px;
     
-}
+} */
 
 .containerCen {
     max-width: 600px;
@@ -109,9 +109,7 @@ hr {
     padding: 1rem;
 }
 
-.ow {
-    background-color: var(--off-white);
-}
+
 
 footer {
     background-color: var(--prim-col);
